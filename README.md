@@ -59,4 +59,7 @@ El autor **no se responsabiliza por el uso indebido** de este código. Su uso es
 No está permitido su uso con objetivos maliciosos ni su distribución como herramienta ofensiva real.
 
 ---
+![image](https://github.com/user-attachments/assets/5165bded-4efc-4baf-b893-c356e7050f2c)
+![image](https://github.com/user-attachments/assets/5165bded-4efc-4baf-b893-c356e7050f2c)
+
 
