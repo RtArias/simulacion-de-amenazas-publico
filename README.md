@@ -1,5 +1,5 @@
 # Simulación de Amenazas (Versión Pública)
-⚠️ **Este repositorio es una versión pública y adaptada del proyecto original de simulación de amenazas. Algunos módulos han sido modificados o limitados para evitar riesgos de uso malicioso. Está destinado exclusivamente a fines educativos, en entornos controlados y privados.**
+⚠️ **Este repositorio es una versión pública del proyecto original de simulación de amenazas. Los módulos han sido modificados o limitados para evitar riesgos de uso malicioso. Está destinado exclusivamente a fines educativos, en entornos controlados y privados.**
 
 🧠 Objetivo
 
